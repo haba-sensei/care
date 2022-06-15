@@ -1,0 +1,2 @@
+2021-10-23T15:46:25+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1310720 bytes) en /home/careperu/public_html/wp-content/plugins/google-analytics-premium/includes/gutenberg/headline-tool/phpinsight/lib/PHPInsight/Sentiment.php en la línea 244
+

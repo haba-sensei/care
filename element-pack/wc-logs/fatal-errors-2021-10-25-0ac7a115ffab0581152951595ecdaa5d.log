@@ -1,0 +1,10 @@
+2021-10-25T03:43:09+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 57344 bytes) en /home/careperu/public_html/wp-content/plugins/official-facebook-pixel/vendor/composer/ClassLoader.php en la línea 480
+
+2021-10-25T10:28:01+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1474560 bytes) en /home/careperu/public_html/wp-includes/wp-db.php en la línea 1168
+
+2021-10-25T11:16:11+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 987136 bytes) en /home/careperu/public_html/wp-includes/wp-db.php en la línea 1417
+
+2021-10-25T11:18:37+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 987136 bytes) en /home/careperu/public_html/wp-includes/wp-db.php en la línea 1417
+
+2021-10-25T11:59:07+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 987136 bytes) en /home/careperu/public_html/wp-includes/wp-db.php en la línea 1417
+

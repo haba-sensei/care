@@ -1,0 +1,14 @@
+2021-10-15T19:36:07+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 28672 bytes) en /home/careperu/public_html/wp-includes/wp-db.php en la línea 2022
+
+2021-10-15T19:36:27+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 24576 bytes) en /home/careperu/public_html/wp-includes/wp-db.php en la línea 2022
+
+2021-10-15T22:11:31+00:00 CRITICAL Out of memory (allocated 76546048) (tried to allocate 20480 bytes) en /home/careperu/public_html/wp-includes/pomo/mo.php en la línea 323
+
+2021-10-15T22:11:37+00:00 CRITICAL Out of memory (allocated 78643200) (tried to allocate 32768 bytes) en /home/careperu/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php en la línea 3379
+
+2021-10-15T22:11:38+00:00 CRITICAL Out of memory (allocated 112197632) (tried to allocate 20480 bytes) en /home/careperu/public_html/wp-includes/rest-api.php en la línea 3195
+
+2021-10-15T22:11:41+00:00 CRITICAL Out of memory (allocated 99614720) (tried to allocate 32768 bytes) en /home/careperu/public_html/wp-content/plugins/woocommerce/includes/gateways/cod/class-wc-gateway-cod.php en la línea 1
+
+2021-10-15T22:11:41+00:00 CRITICAL Out of memory (allocated 82837504) (tried to allocate 32768 bytes) en /home/careperu/public_html/wp-content/plugins/elementor-pro/modules/query-control/module.php en la línea 353
+

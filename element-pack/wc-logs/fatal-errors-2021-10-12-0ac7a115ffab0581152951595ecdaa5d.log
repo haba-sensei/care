@@ -1,0 +1,26 @@
+2021-10-12T03:56:21+00:00 CRITICAL Out of memory (allocated 97517568) (tried to allocate 32768 bytes) en /home/careperu/public_html/wp-content/plugins/litespeed-cache/src/media.cls.php en la línea 297
+
+2021-10-12T03:56:22+00:00 CRITICAL Out of memory (allocated 52953088) (tried to allocate 32768 bytes) en /home/careperu/public_html/wp-content/plugins/wordpress-seo/src/generated/container.php en la línea 3380
+
+2021-10-12T15:01:39+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 24576 bytes) en /home/careperu/public_html/wp-includes/wp-db.php en la línea 2022
+
+2021-10-12T15:03:49+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) en /home/careperu/public_html/wp-includes/class-wp-query.php en la línea 3042
+
+2021-10-12T15:10:55+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) en /home/careperu/public_html/wp-includes/class-wp-query.php en la línea 3042
+
+2021-10-12T15:16:31+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 24576 bytes) en /home/careperu/public_html/wp-includes/wp-db.php en la línea 2022
+
+2021-10-12T15:17:49+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) en /home/careperu/public_html/wp-content/plugins/elementor/includes/widgets/progress.php en la línea 295
+
+2021-10-12T16:26:56+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) en /home/careperu/public_html/wp-includes/wp-db.php en la línea 2022
+
+2021-10-12T22:17:11+00:00 CRITICAL Out of memory (allocated 78643200) (tried to allocate 32768 bytes) en /home/careperu/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php en la línea 1670
+
+2021-10-12T22:17:11+00:00 CRITICAL Out of memory (allocated 66060288) (tried to allocate 266240 bytes) en /home/careperu/public_html/wp-includes/pomo/streams.php en la línea 125
+
+2021-10-12T22:17:13+00:00 CRITICAL Out of memory (allocated 26214400) (tried to allocate 20480 bytes) en /home/careperu/public_html/wp-includes/pomo/translations.php en la línea 100
+
+2021-10-12T22:17:13+00:00 CRITICAL Out of memory (allocated 87031808) (tried to allocate 335872 bytes) in /home/careperu/public_html/wp-includes/pomo/streams.php on line 222
+
+2021-10-12T22:17:13+00:00 CRITICAL Out of memory (allocated 48758784) (tried to allocate 32768 bytes) en /home/careperu/public_html/wp-content/plugins/wp-optimize/cache/file-based-page-cache-functions.php en la línea 954
+

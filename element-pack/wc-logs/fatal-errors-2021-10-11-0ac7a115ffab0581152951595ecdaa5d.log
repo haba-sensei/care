@@ -1,0 +1,106 @@
+2021-10-11T07:06:26+00:00 CRITICAL Uncaught Error: Call to undefined function GiveWooCommerceUpsells\Infrastructure\give() in /home/careperu/public_html/wp-content/plugins/give-donation-upsells-woocommerce/src/Infrastructure/Activation.php:19
+Stack trace:
+#0 /home/careperu/public_html/wp-includes/class-wp-hook.php(303): GiveWooCommerceUpsells\Infrastructure\Activation::activateAddon(false)
+#1 /home/careperu/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home/careperu/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home/careperu/public_html/wp-admin/includes/plugin.php(698): do_action('activate_give-d...', false)
+#4 /home/careperu/public_html/wp-admin/plugins.php(58): activate_plugin('give-donation-u...', 'https://www.car...', false)
+#5 {main}
+  thrown en /home/careperu/public_html/wp-content/plugins/give-donation-upsells-woocommerce/src/Infrastructure/Activation.php en la línea 19
+
+2021-10-11T07:06:33+00:00 CRITICAL Uncaught Error: Call to undefined function GiveWooCommerceUpsells\Infrastructure\give() in /home/careperu/public_html/wp-content/plugins/give-donation-upsells-woocommerce/src/Infrastructure/Activation.php:19
+Stack trace:
+#0 /home/careperu/public_html/wp-includes/class-wp-hook.php(303): GiveWooCommerceUpsells\Infrastructure\Activation::activateAddon('')
+#1 /home/careperu/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home/careperu/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home/careperu/public_html/wp-admin/plugins.php(193): do_action('activate_give-d...')
+#4 {main}
+  thrown en /home/careperu/public_html/wp-content/plugins/give-donation-upsells-woocommerce/src/Infrastructure/Activation.php en la línea 19
+
+2021-10-11T07:06:33+00:00 CRITICAL Uncaught Error: Call to undefined function GiveWooCommerceUpsells\Infrastructure\give() in /home/careperu/public_html/wp-content/plugins/give-donation-upsells-woocommerce/src/Infrastructure/Activation.php:19
+Stack trace:
+#0 /home/careperu/public_html/wp-includes/class-wp-hook.php(303): GiveWooCommerceUpsells\Infrastructure\Activation::activateAddon('')
+#1 /home/careperu/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home/careperu/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home/careperu/public_html/wp-admin/plugins.php(193): do_action('activate_give-d...')
+#4 {main}
+  thrown en /home/careperu/public_html/wp-content/plugins/give-donation-upsells-woocommerce/src/Infrastructure/Activation.php en la línea 19
+
+2021-10-11T07:07:00+00:00 CRITICAL Uncaught Error: Call to undefined function GiveWooCommerceUpsells\Infrastructure\give() in /home/careperu/public_html/wp-content/plugins/give-donation-upsells-woocommerce/src/Infrastructure/Activation.php:19
+Stack trace:
+#0 /home/careperu/public_html/wp-includes/class-wp-hook.php(303): GiveWooCommerceUpsells\Infrastructure\Activation::activateAddon(false)
+#1 /home/careperu/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home/careperu/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home/careperu/public_html/wp-admin/includes/plugin.php(698): do_action('activate_give-d...', false)
+#4 /home/careperu/public_html/wp-admin/plugins.php(58): activate_plugin('give-donation-u...', 'https://www.car...', false)
+#5 {main}
+  thrown en /home/careperu/public_html/wp-content/plugins/give-donation-upsells-woocommerce/src/Infrastructure/Activation.php en la línea 19
+
+2021-10-11T07:07:06+00:00 CRITICAL Uncaught Error: Call to undefined function GiveWooCommerceUpsells\Infrastructure\give() in /home/careperu/public_html/wp-content/plugins/give-donation-upsells-woocommerce/src/Infrastructure/Activation.php:19
+Stack trace:
+#0 /home/careperu/public_html/wp-includes/class-wp-hook.php(303): GiveWooCommerceUpsells\Infrastructure\Activation::activateAddon('')
+#1 /home/careperu/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home/careperu/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home/careperu/public_html/wp-admin/plugins.php(193): do_action('activate_give-d...')
+#4 {main}
+  thrown en /home/careperu/public_html/wp-content/plugins/give-donation-upsells-woocommerce/src/Infrastructure/Activation.php en la línea 19
+
+2021-10-11T07:07:07+00:00 CRITICAL Uncaught Error: Call to undefined function GiveWooCommerceUpsells\Infrastructure\give() in /home/careperu/public_html/wp-content/plugins/give-donation-upsells-woocommerce/src/Infrastructure/Activation.php:19
+Stack trace:
+#0 /home/careperu/public_html/wp-includes/class-wp-hook.php(303): GiveWooCommerceUpsells\Infrastructure\Activation::activateAddon('')
+#1 /home/careperu/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home/careperu/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home/careperu/public_html/wp-admin/plugins.php(193): do_action('activate_give-d...')
+#4 {main}
+  thrown en /home/careperu/public_html/wp-content/plugins/give-donation-upsells-woocommerce/src/Infrastructure/Activation.php en la línea 19
+
+2021-10-11T07:50:14+00:00 CRITICAL Out of memory (allocated 99614720) (tried to allocate 32768 bytes) en /home/careperu/public_html/wp-includes/assets/script-loader-packages.php en la línea 1
+
+2021-10-11T14:59:08+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) en /home/careperu/public_html/wp-includes/wp-db.php en la línea 2022
+
+2021-10-11T15:04:41+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) en /home/careperu/public_html/wp-content/plugins/unlimited-elements-for-elementor-premium/vendor/twig/twig/src/NodeVisitor/OptimizerNodeVisitor.php en la línea 1
+
+2021-10-11T15:07:44+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) en /home/careperu/public_html/wp-content/plugins/unlimited-elements-for-elementor-premium/vendor/twig/twig/src/Node/ModuleNode.php en la línea 297
+
+2021-10-11T15:49:11+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) en /home/careperu/public_html/wp-includes/wp-db.php en la línea 2022
+
+2021-10-11T18:26:00+00:00 CRITICAL require_once(): Failed opening required 'pixelyoursite.php' (include_path='.:/opt/alt/php74/usr/share/pear') en /home/careperu/public_html/wp-content/plugins/pixelyoursite/facebook-pixel-master.php en la línea 47
+
+2021-10-11T18:26:06+00:00 CRITICAL require_once(): Failed opening required 'pixelyoursite.php' (include_path='.:/opt/alt/php74/usr/share/pear') en /home/careperu/public_html/wp-content/plugins/pixelyoursite/facebook-pixel-master.php en la línea 47
+
+2021-10-11T18:26:06+00:00 CRITICAL require_once(): Failed opening required 'pixelyoursite.php' (include_path='.:/opt/alt/php74/usr/share/pear') en /home/careperu/public_html/wp-content/plugins/pixelyoursite/facebook-pixel-master.php en la línea 47
+
+2021-10-11T18:28:41+00:00 CRITICAL require_once(): Failed opening required 'pixelyoursite.php' (include_path='.:/opt/alt/php74/usr/share/pear') en /home/careperu/public_html/wp-content/plugins/pixelyoursite/facebook-pixel-master.php en la línea 47
+
+2021-10-11T18:28:48+00:00 CRITICAL require_once(): Failed opening required 'pixelyoursite.php' (include_path='.:/opt/alt/php74/usr/share/pear') en /home/careperu/public_html/wp-content/plugins/pixelyoursite/facebook-pixel-master.php en la línea 47
+
+2021-10-11T18:28:49+00:00 CRITICAL require_once(): Failed opening required 'pixelyoursite.php' (include_path='.:/opt/alt/php74/usr/share/pear') en /home/careperu/public_html/wp-content/plugins/pixelyoursite/facebook-pixel-master.php en la línea 47
+
+2021-10-11T18:31:30+00:00 CRITICAL require_once(): Failed opening required 'pixelyoursite.php' (include_path='.:/opt/alt/php74/usr/share/pear') en /home/careperu/public_html/wp-content/plugins/pixelyoursite/facebook-pixel-master.php en la línea 47
+
+2021-10-11T18:31:37+00:00 CRITICAL require_once(): Failed opening required 'pixelyoursite.php' (include_path='.:/opt/alt/php74/usr/share/pear') en /home/careperu/public_html/wp-content/plugins/pixelyoursite/facebook-pixel-master.php en la línea 47
+
+2021-10-11T18:31:37+00:00 CRITICAL require_once(): Failed opening required 'pixelyoursite.php' (include_path='.:/opt/alt/php74/usr/share/pear') en /home/careperu/public_html/wp-content/plugins/pixelyoursite/facebook-pixel-master.php en la línea 47
+
+2021-10-11T20:21:11+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 24576 bytes) en /home/careperu/public_html/wp-includes/wp-db.php en la línea 2022
+
+2021-10-11T20:37:40+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 65536 bytes) en /home/careperu/public_html/wp-content/plugins/unlimited-elements-for-elementor-premium/provider/provider_params_processor.class.php en la línea 3143
+
+2021-10-11T20:54:33+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) en /home/careperu/public_html/wp-includes/wp-db.php en la línea 2022
+
+2021-10-11T22:51:54+00:00 CRITICAL Out of memory (allocated 82837504) (tried to allocate 32768 bytes) en /home/careperu/public_html/wp-content/plugins/elementor-pro/modules/assets-manager/asset-types/fonts-manager.php en la línea 309
+
+2021-10-11T22:51:55+00:00 CRITICAL Out of memory (allocated 84934656) (tried to allocate 32768 bytes) en /home/careperu/public_html/wp-content/plugins/elementor-pro/modules/forms/classes/ajax-handler.php en la línea 177
+
+2021-10-11T22:51:55+00:00 CRITICAL Out of memory (allocated 78643200) (tried to allocate 12288 bytes) en /home/careperu/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php en la línea 1641
+
+2021-10-11T22:51:56+00:00 CRITICAL Out of memory (allocated 72351744) (tried to allocate 4096 bytes) en /home/careperu/public_html/wp-includes/pomo/mo.php en la línea 315
+
+2021-10-11T22:51:57+00:00 CRITICAL Out of memory (allocated 87031808) (tried to allocate 36864 bytes) en /home/careperu/public_html/wp-includes/pomo/streams.php en la línea 125
+
+2021-10-11T22:51:58+00:00 CRITICAL Out of memory (allocated 87031808) (tried to allocate 335872 bytes) in /home/careperu/public_html/wp-includes/pomo/streams.php on line 222
+
+2021-10-11T22:51:58+00:00 CRITICAL Out of memory (allocated 72351744) (tried to allocate 4096 bytes) en /home/careperu/public_html/wp-includes/pomo/mo.php en la línea 315
+
+2021-10-11T22:51:58+00:00 CRITICAL Out of memory (allocated 101711872) (tried to allocate 20480 bytes) en /home/careperu/public_html/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version3/class-wc-rest-terms-controller.php en la línea 241
+

@@ -1,0 +1,502 @@
+[2022-05-14 12:45:28 : INFO] - Re_Smush_It_Task with attachment ID : 16219, autocreated on : May 14, 2022 12:45:28 
+[2022-05-14 12:45:30 : INFO] - Re_Smush_It_Task with attachment ID : 16220, autocreated on : May 14, 2022 12:45:30 
+[2022-05-14 12:45:41 : INFO] - Re_Smush_It_Task with attachment ID : 16221, autocreated on : May 14, 2022 12:45:41 
+[2022-05-14 12:47:27 : INFO] - Re_Smush_It_Task with attachment ID : 16222, autocreated on : May 14, 2022 12:47:27 
+[2022-05-14 12:47:40 : INFO] - Re_Smush_It_Task with attachment ID : 16223, autocreated on : May 14, 2022 12:47:40 
+[2022-05-14 12:47:50 : INFO] - Re_Smush_It_Task with attachment ID : 16224, autocreated on : May 14, 2022 12:47:50 
+[2022-05-14 12:50:34 : INFO] - 
+ 
+[2022-05-14 12:50:34 : INFO] - Header for logs at time:  Sat, 14 May 2022 12:50:34 +0000 on https://webtesteo.com 
+[2022-05-14 12:50:34 : INFO] - WP: 5.9.3 
+[2022-05-14 12:50:34 : INFO] - PHP: 8.0.17 (litespeed, Linux cpl21.main-hosting.eu 4.18.0-305.10.2.2.lve.el7h.x86_64 #1 SMP Wed Jul 28 13:09:44 UTC 2021 x86_64) 
+[2022-05-14 12:50:34 : INFO] - MySQL: 10.5.15 
+[2022-05-14 12:50:34 : INFO] - WPLANG: es_ES 
+[2022-05-14 12:50:34 : INFO] - Server: LiteSpeed 
+[2022-05-14 12:50:34 : INFO] - Outbound connections: N 
+[2022-05-14 12:50:34 : INFO] - safe_mode: 0 
+[2022-05-14 12:50:34 : INFO] - max_execution_time: 4096 
+[2022-05-14 12:50:34 : INFO] - memory_limit: 512M (used: 71M | 73M) 
+[2022-05-14 12:50:34 : INFO] - multisite: N 
+[2022-05-14 12:50:34 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2022-05-14 12:50:34 : INFO] - A total of 6 tasks of type smush found and will be processed in this iteration 
+[2022-05-14 12:50:34 : DEBUG] - Lock option (updraft_lock_smush, wpym_options) was created in the database 
+[2022-05-14 12:50:34 : INFO] - Lock (updraft_lock_smush, wpym_options) acquired after initialising the database 
+[2022-05-14 12:50:34 : INFO] - Processing task with ID : 1563, and type 'smush' 
+[2022-05-14 12:50:34 : INFO] - Re_Smush_It_Task with attachment ID : 16219, autocreated on : May 14, 2022 12:45:28 
+[2022-05-14 12:50:34 : INFO] - 95 
+[2022-05-14 12:50:38 : INFO] - Re_Smush_It_Task with attachment ID : 16219, autocreated on : May 14, 2022 12:45:28 
+[2022-05-14 12:50:38 : INFO] - 95 
+[2022-05-14 12:51:02 : INFO] - Task with ID 1563 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2022-05-14 12:51:02 : INFO] - data: {"src":"http:\/\/par2.static.resmush.it\/1267bdf3dfb72073c9995a491311f943\/_src_Banner_ninas_colegio-480x360.png","dest":"http:\/\/par2.static.resmush.it\/1267bdf3dfb72073c9995a491311f943\/Banner_ninas_colegio-480x360.png","src_size":302072,"dest_size":96554,"percent":68,"output":"json","expires":"Sat, 14 May 2022 14:55:57 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2022-05-14 12:51:02 : INFO] - Re_Smush_It_Task with attachment ID : 16219, autocreated on : May 14, 2022 12:45:28 
+[2022-05-14 12:51:02 : INFO] - 95 
+[2022-05-14 12:51:22 : INFO] - Task with ID 1563 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-14 12:51:22 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-14 12:51:22 : INFO] - Re_Smush_It_Task with attachment ID : 16219, autocreated on : May 14, 2022 12:45:28 
+[2022-05-14 12:51:22 : INFO] - 95 
+[2022-05-14 12:51:22 : INFO] - Task with ID 1563 and type (smush) failed with error code http_request_failed - cURL error 55: Send failure: Broken pipe 
+[2022-05-14 12:51:22 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-14 12:51:22 : INFO] - Re_Smush_It_Task with attachment ID : 16219, autocreated on : May 14, 2022 12:45:28 
+[2022-05-14 12:51:22 : INFO] - 95 
+[2022-05-14 12:51:23 : INFO] - Task with ID 1563 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-14 12:51:23 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-14 12:51:23 : INFO] - Re_Smush_It_Task with attachment ID : 16219, autocreated on : May 14, 2022 12:45:28 
+[2022-05-14 12:51:23 : INFO] - 95 
+[2022-05-14 12:51:23 : INFO] - Task with ID 1563 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-14 12:51:23 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-14 12:51:23 : INFO] - Re_Smush_It_Task with attachment ID : 16219, autocreated on : May 14, 2022 12:45:28 
+[2022-05-14 12:51:23 : INFO] - 95 
+[2022-05-14 12:51:23 : INFO] - Task with ID 1563 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-14 12:51:23 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-14 12:51:23 : INFO] - Re_Smush_It_Task with attachment ID : 16219, autocreated on : May 14, 2022 12:45:28 
+[2022-05-14 12:51:23 : INFO] - 95 
+[2022-05-14 12:51:23 : INFO] - Task with ID 1563 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-14 12:51:23 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-14 12:51:23 : INFO] - Successfully optimized the image - /home/webtsete/public_html/wp-content/uploads/2022/05/Banner_ninas_colegio.png.El archivo ha sido comprimido de 689.72 KB a 200.72 KB ahorrando un 70.9 por ciento utilizando WP-Optimize 
+[2022-05-14 12:51:23 : INFO] - Completed processing task with ID : 1563, and type 'smush' 
+[2022-05-14 12:51:23 : INFO] - Processing task with ID : 1564, and type 'smush' 
+[2022-05-14 12:51:23 : INFO] - Re_Smush_It_Task with attachment ID : 16220, autocreated on : May 14, 2022 12:45:30 
+[2022-05-14 12:51:23 : INFO] - 95 
+[2022-05-14 12:51:23 : INFO] - Task with ID 1564 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-14 12:51:23 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-14 12:51:23 : INFO] - Re_Smush_It_Task with attachment ID : 16220, autocreated on : May 14, 2022 12:45:30 
+[2022-05-14 12:51:23 : INFO] - 95 
+[2022-05-14 12:51:23 : INFO] - Task with ID 1564 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-14 12:51:23 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-14 12:51:23 : INFO] - Re_Smush_It_Task with attachment ID : 16220, autocreated on : May 14, 2022 12:45:30 
+[2022-05-14 12:51:23 : INFO] - 95 
+[2022-05-14 12:51:23 : INFO] - Task with ID 1564 and type (smush) failed with error code http_request_failed - cURL error 55: Send failure: Broken pipe 
+[2022-05-14 12:51:23 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-14 12:51:23 : INFO] - Re_Smush_It_Task with attachment ID : 16220, autocreated on : May 14, 2022 12:45:30 
+[2022-05-14 12:51:23 : INFO] - 95 
+[2022-05-14 12:51:23 : INFO] - Task with ID 1564 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-14 12:51:23 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-14 12:51:23 : INFO] - Re_Smush_It_Task with attachment ID : 16220, autocreated on : May 14, 2022 12:45:30 
+[2022-05-14 12:51:23 : INFO] - 95 
+[2022-05-14 12:51:23 : INFO] - Task with ID 1564 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-14 12:51:23 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-14 12:51:23 : INFO] - Re_Smush_It_Task with attachment ID : 16220, autocreated on : May 14, 2022 12:45:30 
+[2022-05-14 12:51:23 : INFO] - 95 
+[2022-05-14 12:51:23 : INFO] - Task with ID 1564 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-14 12:51:23 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-14 12:51:23 : INFO] - Re_Smush_It_Task with attachment ID : 16220, autocreated on : May 14, 2022 12:45:30 
+[2022-05-14 12:51:23 : INFO] - 95 
+[2022-05-14 12:51:23 : INFO] - Task with ID 1564 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-14 12:51:23 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-14 12:51:23 : INFO] - Re_Smush_It_Task with attachment ID : 16220, autocreated on : May 14, 2022 12:45:30 
+[2022-05-14 12:51:23 : INFO] - 95 
+[2022-05-14 12:51:23 : INFO] - Task with ID 1564 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-14 12:51:23 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-14 12:51:23 : INFO] - Re_Smush_It_Task with attachment ID : 16220, autocreated on : May 14, 2022 12:45:30 
+[2022-05-14 12:51:23 : INFO] - 95 
+[2022-05-14 12:51:23 : INFO] - Task with ID 1564 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-14 12:51:23 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-14 12:51:23 : INFO] - Re_Smush_It_Task with attachment ID : 16220, autocreated on : May 14, 2022 12:45:30 
+[2022-05-14 12:51:23 : INFO] - 95 
+[2022-05-14 12:51:23 : INFO] - Task with ID 1564 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-14 12:51:23 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-14 12:51:23 : INFO] - Re_Smush_It_Task with attachment ID : 16220, autocreated on : May 14, 2022 12:45:30 
+[2022-05-14 12:51:23 : INFO] - 95 
+[2022-05-14 12:51:23 : INFO] - Task with ID 1564 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-14 12:51:23 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-14 12:51:23 : INFO] - Re_Smush_It_Task with attachment ID : 16220, autocreated on : May 14, 2022 12:45:30 
+[2022-05-14 12:51:23 : INFO] - 95 
+[2022-05-14 12:51:23 : INFO] - Task with ID 1564 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-14 12:51:23 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-14 12:51:23 : INFO] - Processing task with ID : 1565, and type 'smush' 
+[2022-05-14 12:51:23 : INFO] - Task with ID 1565 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2022-05-14 12:51:23 : INFO] - Processing task with ID : 1566, and type 'smush' 
+[2022-05-14 12:51:23 : INFO] - Task with ID 1566 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2022-05-14 12:51:23 : INFO] - Processing task with ID : 1567, and type 'smush' 
+[2022-05-14 12:51:23 : INFO] - Re_Smush_It_Task with attachment ID : 16223, autocreated on : May 14, 2022 12:47:40 
+[2022-05-14 12:51:23 : INFO] - 95 
+[2022-05-14 12:51:23 : INFO] - Task with ID 1567 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-14 12:51:23 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-14 12:51:23 : INFO] - Re_Smush_It_Task with attachment ID : 16223, autocreated on : May 14, 2022 12:47:40 
+[2022-05-14 12:51:23 : INFO] - 95 
+[2022-05-14 12:51:23 : INFO] - Task with ID 1567 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-14 12:51:23 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-14 12:51:23 : INFO] - Re_Smush_It_Task with attachment ID : 16223, autocreated on : May 14, 2022 12:47:40 
+[2022-05-14 12:51:23 : INFO] - 95 
+[2022-05-14 12:51:23 : INFO] - Task with ID 1567 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-14 12:51:23 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-14 12:51:23 : INFO] - Re_Smush_It_Task with attachment ID : 16223, autocreated on : May 14, 2022 12:47:40 
+[2022-05-14 12:51:23 : INFO] - 95 
+[2022-05-14 12:51:23 : INFO] - Task with ID 1567 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-14 12:51:23 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-14 12:51:23 : INFO] - Re_Smush_It_Task with attachment ID : 16223, autocreated on : May 14, 2022 12:47:40 
+[2022-05-14 12:51:23 : INFO] - 95 
+[2022-05-14 12:51:23 : INFO] - Task with ID 1567 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-14 12:51:23 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-14 12:51:23 : INFO] - Re_Smush_It_Task with attachment ID : 16223, autocreated on : May 14, 2022 12:47:40 
+[2022-05-14 12:51:23 : INFO] - 95 
+[2022-05-14 12:51:23 : INFO] - Task with ID 1567 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-14 12:51:23 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-14 12:51:23 : INFO] - Re_Smush_It_Task with attachment ID : 16223, autocreated on : May 14, 2022 12:47:40 
+[2022-05-14 12:51:23 : INFO] - 95 
+[2022-05-14 12:51:23 : INFO] - Task with ID 1567 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-14 12:51:23 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-14 12:51:23 : INFO] - Re_Smush_It_Task with attachment ID : 16223, autocreated on : May 14, 2022 12:47:40 
+[2022-05-14 12:51:23 : INFO] - 95 
+[2022-05-14 12:51:23 : INFO] - Task with ID 1567 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-14 12:51:23 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-14 12:51:23 : INFO] - Re_Smush_It_Task with attachment ID : 16223, autocreated on : May 14, 2022 12:47:40 
+[2022-05-14 12:51:23 : INFO] - 95 
+[2022-05-14 12:51:23 : INFO] - Task with ID 1567 and type (smush) failed with error code http_request_failed - cURL error 55: Send failure: Broken pipe 
+[2022-05-14 12:51:23 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-14 12:51:23 : INFO] - Re_Smush_It_Task with attachment ID : 16223, autocreated on : May 14, 2022 12:47:40 
+[2022-05-14 12:51:23 : INFO] - 95 
+[2022-05-14 12:51:23 : INFO] - Task with ID 1567 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-14 12:51:23 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-14 12:51:23 : INFO] - Re_Smush_It_Task with attachment ID : 16223, autocreated on : May 14, 2022 12:47:40 
+[2022-05-14 12:51:23 : INFO] - 95 
+[2022-05-14 12:51:23 : INFO] - Task with ID 1567 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-14 12:51:23 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-14 12:51:23 : INFO] - Re_Smush_It_Task with attachment ID : 16223, autocreated on : May 14, 2022 12:47:40 
+[2022-05-14 12:51:23 : INFO] - 95 
+[2022-05-14 12:51:24 : INFO] - Task with ID 1567 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-14 12:51:24 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-14 12:51:24 : INFO] - Processing task with ID : 1568, and type 'smush' 
+[2022-05-14 12:51:24 : INFO] - Task with ID 1568 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2022-05-14 12:51:24 : INFO] - Lock option (updraft_lock_smush, wpym_options) released 
+[2022-05-14 12:51:24 : INFO] - Successfully processed the queue (smush). 6 tasks were processed out of 6. 
+[2022-05-14 12:51:24 : INFO] - Lock option (updraft_lock_smush, wpym_options) was deleted from the database 
+[2022-05-14 12:51:24 : INFO] - Cleaning up tasks of type (smush). A total of 6 tasks will be deleted. 
+[2022-05-14 13:00:53 : INFO] - 
+ 
+[2022-05-14 13:00:53 : INFO] - Header for logs at time:  Sat, 14 May 2022 13:00:53 +0000 on http://webtesteo.com 
+[2022-05-14 13:00:53 : INFO] - WP: 5.9.3 
+[2022-05-14 13:00:53 : INFO] - PHP: 8.0.17 (litespeed, Linux cpl21.main-hosting.eu 4.18.0-305.10.2.2.lve.el7h.x86_64 #1 SMP Wed Jul 28 13:09:44 UTC 2021 x86_64) 
+[2022-05-14 13:00:53 : INFO] - MySQL: 10.5.15 
+[2022-05-14 13:00:53 : INFO] - WPLANG: es_ES 
+[2022-05-14 13:00:53 : INFO] - Server: LiteSpeed 
+[2022-05-14 13:00:53 : INFO] - Outbound connections: N 
+[2022-05-14 13:00:53 : INFO] - safe_mode: 0 
+[2022-05-14 13:00:53 : INFO] - max_execution_time: 5000 
+[2022-05-14 13:00:53 : INFO] - memory_limit: 512M (used: 71.5M | 73M) 
+[2022-05-14 13:00:53 : INFO] - multisite: N 
+[2022-05-14 13:00:53 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2022-05-14 13:00:53 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-05-16 14:01:57 : INFO] - Re_Smush_It_Task with attachment ID : 16229, autocreated on : May 16, 2022 02:01:57 
+[2022-05-16 14:07:03 : INFO] - 
+ 
+[2022-05-16 14:07:03 : INFO] - Header for logs at time:  Mon, 16 May 2022 14:07:03 +0000 on https://webtesteo.com 
+[2022-05-16 14:07:03 : INFO] - WP: 5.9.3 
+[2022-05-16 14:07:03 : INFO] - PHP: 8.0.17 (litespeed, Linux cpl21.main-hosting.eu 4.18.0-305.10.2.2.lve.el7h.x86_64 #1 SMP Wed Jul 28 13:09:44 UTC 2021 x86_64) 
+[2022-05-16 14:07:03 : INFO] - MySQL: 10.5.15 
+[2022-05-16 14:07:03 : INFO] - WPLANG: es_ES 
+[2022-05-16 14:07:03 : INFO] - Server: LiteSpeed 
+[2022-05-16 14:07:03 : INFO] - Outbound connections: N 
+[2022-05-16 14:07:03 : INFO] - safe_mode: 0 
+[2022-05-16 14:07:03 : INFO] - max_execution_time: 5000 
+[2022-05-16 14:07:03 : INFO] - memory_limit: 512M (used: 71.1M | 73M) 
+[2022-05-16 14:07:03 : INFO] - multisite: N 
+[2022-05-16 14:07:03 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2022-05-16 14:07:03 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-05-16 14:07:03 : DEBUG] - Lock option (updraft_lock_smush, wpym_options) was created in the database 
+[2022-05-16 14:07:03 : INFO] - Lock (updraft_lock_smush, wpym_options) acquired after initialising the database 
+[2022-05-16 14:07:03 : INFO] - Processing task with ID : 1569, and type 'smush' 
+[2022-05-16 14:07:03 : INFO] - Re_Smush_It_Task with attachment ID : 16229, autocreated on : May 16, 2022 02:01:57 
+[2022-05-16 14:07:03 : INFO] - 95 
+[2022-05-16 14:07:04 : INFO] - Re_Smush_It_Task with attachment ID : 16229, autocreated on : May 16, 2022 02:01:57 
+[2022-05-16 14:07:04 : INFO] - 95 
+[2022-05-16 14:07:04 : INFO] - Re_Smush_It_Task with attachment ID : 16229, autocreated on : May 16, 2022 02:01:57 
+[2022-05-16 14:07:04 : INFO] - 95 
+[2022-05-16 14:07:05 : INFO] - Re_Smush_It_Task with attachment ID : 16229, autocreated on : May 16, 2022 02:01:57 
+[2022-05-16 14:07:05 : INFO] - 95 
+[2022-05-16 14:07:05 : INFO] - Re_Smush_It_Task with attachment ID : 16229, autocreated on : May 16, 2022 02:01:57 
+[2022-05-16 14:07:05 : INFO] - 95 
+[2022-05-16 14:07:05 : INFO] - Re_Smush_It_Task with attachment ID : 16229, autocreated on : May 16, 2022 02:01:57 
+[2022-05-16 14:07:05 : INFO] - 95 
+[2022-05-16 14:07:05 : INFO] - Re_Smush_It_Task with attachment ID : 16229, autocreated on : May 16, 2022 02:01:57 
+[2022-05-16 14:07:05 : INFO] - 95 
+[2022-05-16 14:07:06 : INFO] - Re_Smush_It_Task with attachment ID : 16229, autocreated on : May 16, 2022 02:01:57 
+[2022-05-16 14:07:06 : INFO] - 95 
+[2022-05-16 14:07:06 : INFO] - Re_Smush_It_Task with attachment ID : 16229, autocreated on : May 16, 2022 02:01:57 
+[2022-05-16 14:07:06 : INFO] - 95 
+[2022-05-16 14:07:07 : INFO] - Re_Smush_It_Task with attachment ID : 16229, autocreated on : May 16, 2022 02:01:57 
+[2022-05-16 14:07:07 : INFO] - 95 
+[2022-05-16 14:07:07 : INFO] - Re_Smush_It_Task with attachment ID : 16229, autocreated on : May 16, 2022 02:01:57 
+[2022-05-16 14:07:07 : INFO] - 95 
+[2022-05-16 14:07:07 : INFO] - Re_Smush_It_Task with attachment ID : 16229, autocreated on : May 16, 2022 02:01:57 
+[2022-05-16 14:07:07 : INFO] - 95 
+[2022-05-16 14:07:08 : INFO] - Re_Smush_It_Task with attachment ID : 16229, autocreated on : May 16, 2022 02:01:57 
+[2022-05-16 14:07:08 : INFO] - 95 
+[2022-05-16 14:07:08 : INFO] - Re_Smush_It_Task with attachment ID : 16229, autocreated on : May 16, 2022 02:01:57 
+[2022-05-16 14:07:08 : INFO] - 95 
+[2022-05-16 14:07:08 : INFO] - Re_Smush_It_Task with attachment ID : 16229, autocreated on : May 16, 2022 02:01:57 
+[2022-05-16 14:07:08 : INFO] - 95 
+[2022-05-16 14:07:08 : INFO] - Successfully optimized the image - /home/webtsete/public_html/wp-content/uploads/2022/05/banner-abuso-scaled-1.jpeg.El archivo ha sido comprimido de 173.31 KB a 155.46 KB ahorrando un 10.3 por ciento utilizando WP-Optimize 
+[2022-05-16 14:07:08 : INFO] - Completed processing task with ID : 1569, and type 'smush' 
+[2022-05-16 14:07:08 : INFO] - Lock option (updraft_lock_smush, wpym_options) released 
+[2022-05-16 14:07:08 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-05-16 14:07:08 : INFO] - Lock option (updraft_lock_smush, wpym_options) was deleted from the database 
+[2022-05-16 14:07:08 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-05-16 14:17:27 : INFO] - 
+ 
+[2022-05-16 14:17:27 : INFO] - Header for logs at time:  Mon, 16 May 2022 14:17:27 +0000 on https://webtesteo.com 
+[2022-05-16 14:17:27 : INFO] - WP: 5.9.3 
+[2022-05-16 14:17:27 : INFO] - PHP: 8.0.17 (litespeed, Linux cpl21.main-hosting.eu 4.18.0-305.10.2.2.lve.el7h.x86_64 #1 SMP Wed Jul 28 13:09:44 UTC 2021 x86_64) 
+[2022-05-16 14:17:27 : INFO] - MySQL: 10.5.15 
+[2022-05-16 14:17:27 : INFO] - WPLANG: es_ES 
+[2022-05-16 14:17:27 : INFO] - Server: LiteSpeed 
+[2022-05-16 14:17:27 : INFO] - Outbound connections: N 
+[2022-05-16 14:17:27 : INFO] - safe_mode: 0 
+[2022-05-16 14:17:27 : INFO] - max_execution_time: 5000 
+[2022-05-16 14:17:27 : INFO] - memory_limit: 512M (used: 71.1M | 73M) 
+[2022-05-16 14:17:27 : INFO] - multisite: N 
+[2022-05-16 14:17:27 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2022-05-16 14:17:27 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-05-16 14:32:24 : INFO] - Re_Smush_It_Task with attachment ID : 16232, autocreated on : May 16, 2022 02:32:24 
+[2022-05-16 14:32:30 : INFO] - Re_Smush_It_Task with attachment ID : 16233, autocreated on : May 16, 2022 02:32:30 
+[2022-05-16 14:37:28 : INFO] - 
+ 
+[2022-05-16 14:37:28 : INFO] - Header for logs at time:  Mon, 16 May 2022 14:37:28 +0000 on https://webtesteo.com 
+[2022-05-16 14:37:28 : INFO] - WP: 5.9.3 
+[2022-05-16 14:37:28 : INFO] - PHP: 8.0.17 (litespeed, Linux cpl21.main-hosting.eu 4.18.0-305.10.2.2.lve.el7h.x86_64 #1 SMP Wed Jul 28 13:09:44 UTC 2021 x86_64) 
+[2022-05-16 14:37:28 : INFO] - MySQL: 10.5.15 
+[2022-05-16 14:37:28 : INFO] - WPLANG: es_ES 
+[2022-05-16 14:37:28 : INFO] - Server: LiteSpeed 
+[2022-05-16 14:37:28 : INFO] - Outbound connections: N 
+[2022-05-16 14:37:28 : INFO] - safe_mode: 0 
+[2022-05-16 14:37:28 : INFO] - max_execution_time: 5000 
+[2022-05-16 14:37:28 : INFO] - memory_limit: 512M (used: 71.1M | 73M) 
+[2022-05-16 14:37:28 : INFO] - multisite: N 
+[2022-05-16 14:37:28 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2022-05-16 14:37:28 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2022-05-16 14:37:28 : DEBUG] - Lock option (updraft_lock_smush, wpym_options) was created in the database 
+[2022-05-16 14:37:28 : INFO] - Lock (updraft_lock_smush, wpym_options) acquired after initialising the database 
+[2022-05-16 14:37:28 : INFO] - Processing task with ID : 1571, and type 'smush' 
+[2022-05-16 14:37:28 : INFO] - Re_Smush_It_Task with attachment ID : 16233, autocreated on : May 16, 2022 02:32:30 
+[2022-05-16 14:37:28 : INFO] - 95 
+[2022-05-16 14:37:31 : INFO] - Re_Smush_It_Task with attachment ID : 16233, autocreated on : May 16, 2022 02:32:30 
+[2022-05-16 14:37:31 : INFO] - 95 
+[2022-05-16 14:37:32 : INFO] - Re_Smush_It_Task with attachment ID : 16233, autocreated on : May 16, 2022 02:32:30 
+[2022-05-16 14:37:32 : INFO] - 95 
+[2022-05-16 14:37:33 : INFO] - Re_Smush_It_Task with attachment ID : 16233, autocreated on : May 16, 2022 02:32:30 
+[2022-05-16 14:37:33 : INFO] - 95 
+[2022-05-16 14:37:34 : INFO] - Re_Smush_It_Task with attachment ID : 16233, autocreated on : May 16, 2022 02:32:30 
+[2022-05-16 14:37:34 : INFO] - 95 
+[2022-05-16 14:37:34 : INFO] - Re_Smush_It_Task with attachment ID : 16233, autocreated on : May 16, 2022 02:32:30 
+[2022-05-16 14:37:34 : INFO] - 95 
+[2022-05-16 14:37:37 : INFO] - Re_Smush_It_Task with attachment ID : 16233, autocreated on : May 16, 2022 02:32:30 
+[2022-05-16 14:37:37 : INFO] - 95 
+[2022-05-16 14:37:40 : INFO] - Re_Smush_It_Task with attachment ID : 16233, autocreated on : May 16, 2022 02:32:30 
+[2022-05-16 14:37:40 : INFO] - 95 
+[2022-05-16 14:37:42 : INFO] - Re_Smush_It_Task with attachment ID : 16233, autocreated on : May 16, 2022 02:32:30 
+[2022-05-16 14:37:42 : INFO] - 95 
+[2022-05-16 14:37:46 : INFO] - Re_Smush_It_Task with attachment ID : 16233, autocreated on : May 16, 2022 02:32:30 
+[2022-05-16 14:37:46 : INFO] - 95 
+[2022-05-16 14:37:47 : INFO] - Re_Smush_It_Task with attachment ID : 16233, autocreated on : May 16, 2022 02:32:30 
+[2022-05-16 14:37:47 : INFO] - 95 
+[2022-05-16 14:37:49 : INFO] - Re_Smush_It_Task with attachment ID : 16233, autocreated on : May 16, 2022 02:32:30 
+[2022-05-16 14:37:49 : INFO] - 95 
+[2022-05-16 14:37:51 : INFO] - Re_Smush_It_Task with attachment ID : 16233, autocreated on : May 16, 2022 02:32:30 
+[2022-05-16 14:37:51 : INFO] - 95 
+[2022-05-16 14:37:51 : INFO] - Re_Smush_It_Task with attachment ID : 16233, autocreated on : May 16, 2022 02:32:30 
+[2022-05-16 14:37:51 : INFO] - 95 
+[2022-05-16 14:37:52 : INFO] - Re_Smush_It_Task with attachment ID : 16233, autocreated on : May 16, 2022 02:32:30 
+[2022-05-16 14:37:52 : INFO] - 95 
+[2022-05-16 14:37:52 : INFO] - Successfully optimized the image - /home/webtsete/public_html/wp-content/uploads/2022/05/NCO1_1-4-1-1.png.El archivo ha sido comprimido de 2.16 MB a 2.16 MB ahorrando un 0 por ciento utilizando WP-Optimize 
+[2022-05-16 14:37:52 : INFO] - Completed processing task with ID : 1571, and type 'smush' 
+[2022-05-16 14:37:52 : INFO] - Processing task with ID : 1570, and type 'smush' 
+[2022-05-16 14:37:52 : INFO] - Re_Smush_It_Task with attachment ID : 16232, autocreated on : May 16, 2022 02:32:24 
+[2022-05-16 14:37:52 : INFO] - 95 
+[2022-05-16 14:38:02 : INFO] - Re_Smush_It_Task with attachment ID : 16232, autocreated on : May 16, 2022 02:32:24 
+[2022-05-16 14:38:02 : INFO] - 95 
+[2022-05-16 14:38:03 : INFO] - Re_Smush_It_Task with attachment ID : 16232, autocreated on : May 16, 2022 02:32:24 
+[2022-05-16 14:38:03 : INFO] - 95 
+[2022-05-16 14:38:06 : INFO] - Re_Smush_It_Task with attachment ID : 16232, autocreated on : May 16, 2022 02:32:24 
+[2022-05-16 14:38:06 : INFO] - 95 
+[2022-05-16 14:38:07 : INFO] - Re_Smush_It_Task with attachment ID : 16232, autocreated on : May 16, 2022 02:32:24 
+[2022-05-16 14:38:07 : INFO] - 95 
+[2022-05-16 14:38:09 : INFO] - Re_Smush_It_Task with attachment ID : 16232, autocreated on : May 16, 2022 02:32:24 
+[2022-05-16 14:38:09 : INFO] - 95 
+[2022-05-16 14:38:12 : INFO] - Re_Smush_It_Task with attachment ID : 16232, autocreated on : May 16, 2022 02:32:24 
+[2022-05-16 14:38:12 : INFO] - 95 
+[2022-05-16 14:38:14 : INFO] - Re_Smush_It_Task with attachment ID : 16232, autocreated on : May 16, 2022 02:32:24 
+[2022-05-16 14:38:14 : INFO] - 95 
+[2022-05-16 14:38:16 : INFO] - Re_Smush_It_Task with attachment ID : 16232, autocreated on : May 16, 2022 02:32:24 
+[2022-05-16 14:38:16 : INFO] - 95 
+[2022-05-16 14:38:19 : INFO] - Re_Smush_It_Task with attachment ID : 16232, autocreated on : May 16, 2022 02:32:24 
+[2022-05-16 14:38:19 : INFO] - 95 
+[2022-05-16 14:38:21 : INFO] - Re_Smush_It_Task with attachment ID : 16232, autocreated on : May 16, 2022 02:32:24 
+[2022-05-16 14:38:21 : INFO] - 95 
+[2022-05-16 14:38:22 : INFO] - Re_Smush_It_Task with attachment ID : 16232, autocreated on : May 16, 2022 02:32:24 
+[2022-05-16 14:38:22 : INFO] - 95 
+[2022-05-16 14:38:23 : INFO] - Re_Smush_It_Task with attachment ID : 16232, autocreated on : May 16, 2022 02:32:24 
+[2022-05-16 14:38:23 : INFO] - 95 
+[2022-05-16 14:38:23 : INFO] - Re_Smush_It_Task with attachment ID : 16232, autocreated on : May 16, 2022 02:32:24 
+[2022-05-16 14:38:23 : INFO] - 95 
+[2022-05-16 14:38:24 : INFO] - Re_Smush_It_Task with attachment ID : 16232, autocreated on : May 16, 2022 02:32:24 
+[2022-05-16 14:38:24 : INFO] - 95 
+[2022-05-16 14:38:25 : INFO] - Successfully optimized the image - /home/webtsete/public_html/wp-content/uploads/2022/05/NCO1_1-4-1.png.El archivo ha sido comprimido de 2.16 MB a 2.16 MB ahorrando un 0 por ciento utilizando WP-Optimize 
+[2022-05-16 14:38:25 : INFO] - Completed processing task with ID : 1570, and type 'smush' 
+[2022-05-16 14:38:25 : INFO] - Lock option (updraft_lock_smush, wpym_options) released 
+[2022-05-16 14:38:25 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2022-05-16 14:38:25 : INFO] - Lock option (updraft_lock_smush, wpym_options) was deleted from the database 
+[2022-05-16 14:38:25 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2022-05-16 14:40:24 : INFO] - Re_Smush_It_Task with attachment ID : 16262, autocreated on : May 16, 2022 02:40:24 
+[2022-05-16 14:40:35 : INFO] - Re_Smush_It_Task with attachment ID : 16263, autocreated on : May 16, 2022 02:40:35 
+[2022-05-16 14:47:52 : INFO] - 
+ 
+[2022-05-16 14:47:52 : INFO] - Header for logs at time:  Mon, 16 May 2022 14:47:52 +0000 on https://webtesteo.com 
+[2022-05-16 14:47:52 : INFO] - WP: 5.9.3 
+[2022-05-16 14:47:52 : INFO] - PHP: 8.0.17 (litespeed, Linux cpl21.main-hosting.eu 4.18.0-305.10.2.2.lve.el7h.x86_64 #1 SMP Wed Jul 28 13:09:44 UTC 2021 x86_64) 
+[2022-05-16 14:47:52 : INFO] - MySQL: 10.5.15 
+[2022-05-16 14:47:52 : INFO] - WPLANG: es_ES 
+[2022-05-16 14:47:52 : INFO] - Server: LiteSpeed 
+[2022-05-16 14:47:52 : INFO] - Outbound connections: N 
+[2022-05-16 14:47:52 : INFO] - safe_mode: 0 
+[2022-05-16 14:47:52 : INFO] - max_execution_time: 5000 
+[2022-05-16 14:47:52 : INFO] - memory_limit: 512M (used: 71.1M | 73M) 
+[2022-05-16 14:47:52 : INFO] - multisite: N 
+[2022-05-16 14:47:52 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2022-05-16 14:47:52 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2022-05-16 14:47:52 : DEBUG] - Lock option (updraft_lock_smush, wpym_options) was created in the database 
+[2022-05-16 14:47:52 : INFO] - Lock (updraft_lock_smush, wpym_options) acquired after initialising the database 
+[2022-05-16 14:47:52 : INFO] - Processing task with ID : 1573, and type 'smush' 
+[2022-05-16 14:47:52 : INFO] - Re_Smush_It_Task with attachment ID : 16263, autocreated on : May 16, 2022 02:40:35 
+[2022-05-16 14:47:52 : INFO] - 95 
+[2022-05-16 14:47:53 : INFO] - Re_Smush_It_Task with attachment ID : 16263, autocreated on : May 16, 2022 02:40:35 
+[2022-05-16 14:47:53 : INFO] - 95 
+[2022-05-16 14:47:53 : INFO] - Re_Smush_It_Task with attachment ID : 16263, autocreated on : May 16, 2022 02:40:35 
+[2022-05-16 14:47:53 : INFO] - 95 
+[2022-05-16 14:47:55 : INFO] - Re_Smush_It_Task with attachment ID : 16263, autocreated on : May 16, 2022 02:40:35 
+[2022-05-16 14:47:55 : INFO] - 95 
+[2022-05-16 14:47:56 : INFO] - Re_Smush_It_Task with attachment ID : 16263, autocreated on : May 16, 2022 02:40:35 
+[2022-05-16 14:47:56 : INFO] - 95 
+[2022-05-16 14:47:57 : INFO] - Re_Smush_It_Task with attachment ID : 16263, autocreated on : May 16, 2022 02:40:35 
+[2022-05-16 14:47:57 : INFO] - 95 
+[2022-05-16 14:48:06 : INFO] - Re_Smush_It_Task with attachment ID : 16263, autocreated on : May 16, 2022 02:40:35 
+[2022-05-16 14:48:06 : INFO] - 95 
+[2022-05-16 14:48:11 : INFO] - Re_Smush_It_Task with attachment ID : 16263, autocreated on : May 16, 2022 02:40:35 
+[2022-05-16 14:48:11 : INFO] - 95 
+[2022-05-16 14:48:12 : INFO] - Re_Smush_It_Task with attachment ID : 16263, autocreated on : May 16, 2022 02:40:35 
+[2022-05-16 14:48:12 : INFO] - 95 
+[2022-05-16 14:48:12 : INFO] - Re_Smush_It_Task with attachment ID : 16263, autocreated on : May 16, 2022 02:40:35 
+[2022-05-16 14:48:12 : INFO] - 95 
+[2022-05-16 14:48:13 : INFO] - Re_Smush_It_Task with attachment ID : 16263, autocreated on : May 16, 2022 02:40:35 
+[2022-05-16 14:48:13 : INFO] - 95 
+[2022-05-16 14:48:13 : INFO] - Re_Smush_It_Task with attachment ID : 16263, autocreated on : May 16, 2022 02:40:35 
+[2022-05-16 14:48:13 : INFO] - 95 
+[2022-05-16 14:48:13 : INFO] - Re_Smush_It_Task with attachment ID : 16263, autocreated on : May 16, 2022 02:40:35 
+[2022-05-16 14:48:13 : INFO] - 95 
+[2022-05-16 14:48:13 : INFO] - Successfully optimized the image - /home/webtsete/public_html/wp-content/uploads/2022/05/01234-1-1-1.png.El archivo ha sido comprimido de 328.81 KB a 328.81 KB ahorrando un 0 por ciento utilizando WP-Optimize 
+[2022-05-16 14:48:13 : INFO] - Completed processing task with ID : 1573, and type 'smush' 
+[2022-05-16 14:48:13 : INFO] - Processing task with ID : 1572, and type 'smush' 
+[2022-05-16 14:48:13 : INFO] - Re_Smush_It_Task with attachment ID : 16262, autocreated on : May 16, 2022 02:40:24 
+[2022-05-16 14:48:13 : INFO] - 95 
+[2022-05-16 14:48:14 : INFO] - Re_Smush_It_Task with attachment ID : 16262, autocreated on : May 16, 2022 02:40:24 
+[2022-05-16 14:48:14 : INFO] - 95 
+[2022-05-16 14:48:19 : INFO] - Re_Smush_It_Task with attachment ID : 16262, autocreated on : May 16, 2022 02:40:24 
+[2022-05-16 14:48:19 : INFO] - 95 
+[2022-05-16 14:48:21 : INFO] - Re_Smush_It_Task with attachment ID : 16262, autocreated on : May 16, 2022 02:40:24 
+[2022-05-16 14:48:21 : INFO] - 95 
+[2022-05-16 14:48:21 : INFO] - Re_Smush_It_Task with attachment ID : 16262, autocreated on : May 16, 2022 02:40:24 
+[2022-05-16 14:48:21 : INFO] - 95 
+[2022-05-16 14:48:21 : INFO] - Re_Smush_It_Task with attachment ID : 16262, autocreated on : May 16, 2022 02:40:24 
+[2022-05-16 14:48:21 : INFO] - 95 
+[2022-05-16 14:48:27 : INFO] - Re_Smush_It_Task with attachment ID : 16262, autocreated on : May 16, 2022 02:40:24 
+[2022-05-16 14:48:27 : INFO] - 95 
+[2022-05-16 14:48:28 : INFO] - Re_Smush_It_Task with attachment ID : 16262, autocreated on : May 16, 2022 02:40:24 
+[2022-05-16 14:48:28 : INFO] - 95 
+[2022-05-16 14:48:32 : INFO] - Re_Smush_It_Task with attachment ID : 16262, autocreated on : May 16, 2022 02:40:24 
+[2022-05-16 14:48:32 : INFO] - 95 
+[2022-05-16 14:48:37 : INFO] - Re_Smush_It_Task with attachment ID : 16262, autocreated on : May 16, 2022 02:40:24 
+[2022-05-16 14:48:37 : INFO] - 95 
+[2022-05-16 14:48:42 : INFO] - Re_Smush_It_Task with attachment ID : 16262, autocreated on : May 16, 2022 02:40:24 
+[2022-05-16 14:48:42 : INFO] - 95 
+[2022-05-16 14:48:42 : INFO] - Re_Smush_It_Task with attachment ID : 16262, autocreated on : May 16, 2022 02:40:24 
+[2022-05-16 14:48:42 : INFO] - 95 
+[2022-05-16 14:48:42 : INFO] - Re_Smush_It_Task with attachment ID : 16262, autocreated on : May 16, 2022 02:40:24 
+[2022-05-16 14:48:42 : INFO] - 95 
+[2022-05-16 14:48:44 : INFO] - Successfully optimized the image - /home/webtsete/public_html/wp-content/uploads/2022/05/01234-1-1.png.El archivo ha sido comprimido de 328.81 KB a 328.81 KB ahorrando un 0 por ciento utilizando WP-Optimize 
+[2022-05-16 14:48:44 : INFO] - Completed processing task with ID : 1572, and type 'smush' 
+[2022-05-16 14:48:44 : INFO] - Lock option (updraft_lock_smush, wpym_options) released 
+[2022-05-16 14:48:44 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2022-05-16 14:48:44 : INFO] - Lock option (updraft_lock_smush, wpym_options) was deleted from the database 
+[2022-05-16 14:48:44 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2022-05-16 14:58:02 : INFO] - 
+ 
+[2022-05-16 14:58:02 : INFO] - Header for logs at time:  Mon, 16 May 2022 14:58:02 +0000 on https://webtesteo.com 
+[2022-05-16 14:58:02 : INFO] - WP: 5.9.3 
+[2022-05-16 14:58:02 : INFO] - PHP: 8.0.17 (litespeed, Linux cpl21.main-hosting.eu 4.18.0-305.10.2.2.lve.el7h.x86_64 #1 SMP Wed Jul 28 13:09:44 UTC 2021 x86_64) 
+[2022-05-16 14:58:02 : INFO] - MySQL: 10.5.15 
+[2022-05-16 14:58:02 : INFO] - WPLANG: es_ES 
+[2022-05-16 14:58:02 : INFO] - Server: LiteSpeed 
+[2022-05-16 14:58:02 : INFO] - Outbound connections: N 
+[2022-05-16 14:58:02 : INFO] - safe_mode: 0 
+[2022-05-16 14:58:02 : INFO] - max_execution_time: 5000 
+[2022-05-16 14:58:02 : INFO] - memory_limit: 512M (used: 71.1M | 73M) 
+[2022-05-16 14:58:02 : INFO] - multisite: N 
+[2022-05-16 14:58:02 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2022-05-16 14:58:02 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-05-16 15:29:16 : INFO] - Re_Smush_It_Task with attachment ID : 16297, autocreated on : May 16, 2022 03:29:16 
+[2022-05-16 15:35:10 : INFO] - 
+ 
+[2022-05-16 15:35:10 : INFO] - Header for logs at time:  Mon, 16 May 2022 15:35:10 +0000 on https://webtesteo.com 
+[2022-05-16 15:35:10 : INFO] - WP: 5.9.3 
+[2022-05-16 15:35:10 : INFO] - PHP: 8.0.17 (litespeed, Linux cpl21.main-hosting.eu 4.18.0-305.10.2.2.lve.el7h.x86_64 #1 SMP Wed Jul 28 13:09:44 UTC 2021 x86_64) 
+[2022-05-16 15:35:10 : INFO] - MySQL: 10.5.15 
+[2022-05-16 15:35:10 : INFO] - WPLANG: es_ES 
+[2022-05-16 15:35:10 : INFO] - Server: LiteSpeed 
+[2022-05-16 15:35:10 : INFO] - Outbound connections: N 
+[2022-05-16 15:35:10 : INFO] - safe_mode: 0 
+[2022-05-16 15:35:10 : INFO] - max_execution_time: 5000 
+[2022-05-16 15:35:10 : INFO] - memory_limit: 512M (used: 71.1M | 73M) 
+[2022-05-16 15:35:10 : INFO] - multisite: N 
+[2022-05-16 15:35:10 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2022-05-16 15:35:10 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-05-16 15:35:10 : DEBUG] - Lock option (updraft_lock_smush, wpym_options) was created in the database 
+[2022-05-16 15:35:10 : INFO] - Lock (updraft_lock_smush, wpym_options) acquired after initialising the database 
+[2022-05-16 15:35:10 : INFO] - Processing task with ID : 1574, and type 'smush' 
+[2022-05-16 15:35:10 : INFO] - Re_Smush_It_Task with attachment ID : 16297, autocreated on : May 16, 2022 03:29:16 
+[2022-05-16 15:35:10 : INFO] - 95 
+[2022-05-16 15:35:11 : INFO] - Re_Smush_It_Task with attachment ID : 16297, autocreated on : May 16, 2022 03:29:16 
+[2022-05-16 15:35:11 : INFO] - 95 
+[2022-05-16 15:35:11 : INFO] - Re_Smush_It_Task with attachment ID : 16297, autocreated on : May 16, 2022 03:29:16 
+[2022-05-16 15:35:11 : INFO] - 95 
+[2022-05-16 15:35:15 : INFO] - Re_Smush_It_Task with attachment ID : 16297, autocreated on : May 16, 2022 03:29:16 
+[2022-05-16 15:35:15 : INFO] - 95 
+[2022-05-16 15:35:20 : INFO] - Re_Smush_It_Task with attachment ID : 16297, autocreated on : May 16, 2022 03:29:16 
+[2022-05-16 15:35:20 : INFO] - 95 
+[2022-05-16 15:35:20 : INFO] - Re_Smush_It_Task with attachment ID : 16297, autocreated on : May 16, 2022 03:29:16 
+[2022-05-16 15:35:20 : INFO] - 95 
+[2022-05-16 15:35:20 : INFO] - Re_Smush_It_Task with attachment ID : 16297, autocreated on : May 16, 2022 03:29:16 
+[2022-05-16 15:35:20 : INFO] - 95 
+[2022-05-16 15:35:21 : INFO] - Re_Smush_It_Task with attachment ID : 16297, autocreated on : May 16, 2022 03:29:16 
+[2022-05-16 15:35:21 : INFO] - 95 
+[2022-05-16 15:35:21 : INFO] - Re_Smush_It_Task with attachment ID : 16297, autocreated on : May 16, 2022 03:29:16 
+[2022-05-16 15:35:21 : INFO] - 95 
+[2022-05-16 15:35:21 : INFO] - Re_Smush_It_Task with attachment ID : 16297, autocreated on : May 16, 2022 03:29:16 
+[2022-05-16 15:35:21 : INFO] - 95 
+[2022-05-16 15:35:28 : INFO] - Re_Smush_It_Task with attachment ID : 16297, autocreated on : May 16, 2022 03:29:16 
+[2022-05-16 15:35:28 : INFO] - 95 
+[2022-05-16 15:35:32 : INFO] - Re_Smush_It_Task with attachment ID : 16297, autocreated on : May 16, 2022 03:29:16 
+[2022-05-16 15:35:32 : INFO] - 95 
+[2022-05-16 15:35:32 : INFO] - Re_Smush_It_Task with attachment ID : 16297, autocreated on : May 16, 2022 03:29:16 
+[2022-05-16 15:35:32 : INFO] - 95 
+[2022-05-16 15:35:32 : INFO] - Re_Smush_It_Task with attachment ID : 16297, autocreated on : May 16, 2022 03:29:16 
+[2022-05-16 15:35:32 : INFO] - 95 
+[2022-05-16 15:35:32 : INFO] - Successfully optimized the image - /home/webtsete/public_html/wp-content/uploads/2022/05/Logo_BID.png.El archivo ha sido comprimido de 36.96 KB a 16.34 KB ahorrando un 55.79 por ciento utilizando WP-Optimize 
+[2022-05-16 15:35:32 : INFO] - Completed processing task with ID : 1574, and type 'smush' 
+[2022-05-16 15:35:32 : INFO] - Lock option (updraft_lock_smush, wpym_options) released 
+[2022-05-16 15:35:32 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-05-16 15:35:32 : INFO] - Lock option (updraft_lock_smush, wpym_options) was deleted from the database 
+[2022-05-16 15:35:32 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-05-16 15:45:16 : INFO] - 
+ 
+[2022-05-16 15:45:16 : INFO] - Header for logs at time:  Mon, 16 May 2022 15:45:16 +0000 on https://webtesteo.com 
+[2022-05-16 15:45:16 : INFO] - WP: 5.9.3 
+[2022-05-16 15:45:16 : INFO] - PHP: 8.0.17 (litespeed, Linux cpl21.main-hosting.eu 4.18.0-305.10.2.2.lve.el7h.x86_64 #1 SMP Wed Jul 28 13:09:44 UTC 2021 x86_64) 
+[2022-05-16 15:45:16 : INFO] - MySQL: 10.5.15 
+[2022-05-16 15:45:16 : INFO] - WPLANG: es_ES 
+[2022-05-16 15:45:16 : INFO] - Server: LiteSpeed 
+[2022-05-16 15:45:16 : INFO] - Outbound connections: N 
+[2022-05-16 15:45:16 : INFO] - safe_mode: 0 
+[2022-05-16 15:45:16 : INFO] - max_execution_time: 5000 
+[2022-05-16 15:45:16 : INFO] - memory_limit: 512M (used: 71.6M | 73M) 
+[2022-05-16 15:45:16 : INFO] - multisite: N 
+[2022-05-16 15:45:16 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2022-05-16 15:45:16 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 

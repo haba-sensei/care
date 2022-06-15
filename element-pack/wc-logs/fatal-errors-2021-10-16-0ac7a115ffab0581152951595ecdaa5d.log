@@ -1,0 +1,12 @@
+2021-10-16T02:12:31+00:00 CRITICAL Out of memory (allocated 80740352) (tried to allocate 20480 bytes) en /home/careperu/public_html/wp-content/plugins/elementor/includes/db.php en la línea 183
+
+2021-10-16T02:12:31+00:00 CRITICAL Out of memory (allocated 82837504) (tried to allocate 20480 bytes) en /home/careperu/public_html/wp-content/plugins/elementor/includes/template-library/sources/local.php en la línea 1414
+
+2021-10-16T02:12:31+00:00 CRITICAL Out of memory (allocated 82837504) (tried to allocate 32768 bytes) en /home/careperu/public_html/wp-content/plugins/elementor/includes/template-library/sources/local.php en la línea 977
+
+2021-10-16T02:12:34+00:00 CRITICAL Out of memory (allocated 93323264) (tried to allocate 204800 bytes) en /home/careperu/public_html/wp-content/plugins/piotnet-addons-for-elementor-pro/widgets/pafe-form-builder-field.php en la línea 4369
+
+2021-10-16T02:12:34+00:00 CRITICAL Out of memory (allocated 95420416) (tried to allocate 65536 bytes) en /home/careperu/public_html/wp-content/plugins/piotnet-addons-for-elementor-pro/widgets/pafe-multi-step-form.php en la línea 3448
+
+2021-10-16T17:40:47+00:00 CRITICAL Out of memory (allocated 51380224) (tried to allocate 32768 bytes) en /home/careperu/public_html/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-post_object.php en la línea 1
+
